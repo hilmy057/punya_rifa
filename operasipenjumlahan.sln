@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operasipenjumlahan", "operasipenjumlahan\operasipenjumlahan.csproj", "{2C1D241A-CE64-4538-B7A9-F7BD2C975141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1D241A-CE64-4538-B7A9-F7BD2C975141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1D241A-CE64-4538-B7A9-F7BD2C975141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1D241A-CE64-4538-B7A9-F7BD2C975141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1D241A-CE64-4538-B7A9-F7BD2C975141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF95C35D-EE12-4C01-BF51-D5350D029715}
+	EndGlobalSection
+EndGlobal
